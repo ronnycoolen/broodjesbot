@@ -3,7 +3,11 @@
 
 # Installation
 
+- Install dependencies
 > npm install
+
+- Create config file `config.json` based on `config.json.dist`
+
 
 # Running application
 
